@@ -1,8 +1,8 @@
-# Foxytoux Installer
+# Xroot Installer
 
 ## Overview
 
-This shell script is designed to automate the installation of Foxytoux, a lightweight Ubuntu environment using Proot.
+This shell script is designed to automate the installation of Amaya, a lightweight Ubuntu environment using Proot.
 
 ## Prerequisites
 
@@ -16,7 +16,7 @@ This shell script is designed to automate the installation of Foxytoux, a lightw
 1. Clone the repository:
 
     ```sh
-    git clone https://github.com/foxytouxxx/freeroot.git
+    git clone https://github.com/Amaya223/xroot.git
     cd freeroot
     ```
 
@@ -37,7 +37,7 @@ This shell script is designed to automate the installation of Foxytoux, a lightw
 
 ## License
 
-This Foxytoux Installer script is released under the [MIT License](LICENSE).
+This Amaya Installer script is released under the [MIT License](LICENSE).
 
 ## Credits
 
