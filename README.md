@@ -17,7 +17,7 @@ This shell script is designed to automate the installation of Amaya, a lightweig
 
     ```sh
     git clone https://github.com/Amaya223/xroot.git
-    cd freeroot
+    cd xroot
     ```
 
 2. Run the installer script:
