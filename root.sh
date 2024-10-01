@@ -18,9 +18,9 @@ fi
 if [ ! -e $ROOTFS_DIR/.installed ]; then
   echo "#######################################################################################"
   echo "#"
-  echo "#                                            Xroot
+  echo "#"                                            Xroot
   echo "#"
-  echo "#                           Copyright (C) 2024, RecodeStudios.Cloud"
+  echo "#"                           Copyright (C) 2024, RecodeStudios.Cloud"
   echo "#"
   echo "#"
   echo "#######################################################################################"
